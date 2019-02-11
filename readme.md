@@ -7,3 +7,5 @@
 * Axis title.
 * Legend.
 * Different color for each series.
+
+![Barchart Temps](/images/barchart_temps.png)
